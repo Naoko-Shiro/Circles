@@ -1,0 +1,10 @@
+H:\11th grade stuff\Programming in Basic\Ch. 3\Circles\Circles\bin\Debug\Circles.exe.config
+H:\11th grade stuff\Programming in Basic\Ch. 3\Circles\Circles\bin\Debug\Circles.exe
+H:\11th grade stuff\Programming in Basic\Ch. 3\Circles\Circles\bin\Debug\Circles.pdb
+H:\11th grade stuff\Programming in Basic\Ch. 3\Circles\Circles\bin\Debug\Circles.xml
+H:\11th grade stuff\Programming in Basic\Ch. 3\Circles\Circles\obj\Debug\Circles.Form1.resources
+H:\11th grade stuff\Programming in Basic\Ch. 3\Circles\Circles\obj\Debug\Circles.Resources.resources
+H:\11th grade stuff\Programming in Basic\Ch. 3\Circles\Circles\obj\Debug\Circles.vbproj.GenerateResource.Cache
+H:\11th grade stuff\Programming in Basic\Ch. 3\Circles\Circles\obj\Debug\Circles.exe
+H:\11th grade stuff\Programming in Basic\Ch. 3\Circles\Circles\obj\Debug\Circles.xml
+H:\11th grade stuff\Programming in Basic\Ch. 3\Circles\Circles\obj\Debug\Circles.pdb
